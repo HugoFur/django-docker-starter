@@ -44,7 +44,7 @@ A estrutura básica do repositório está organizada da seguinte forma:
 Inicie clonando este repositório para ter seu próprio local de trabalho:
 
 ```sh
-git clone https://github.com/HugoFur/django-docker-starter.git um-projeto-qualquer
+git clone https://github.com/HugoFur/django-docker-starter.git myproject
 ```
 
 #### Navegue até o Diretório do Projeto
@@ -52,7 +52,7 @@ git clone https://github.com/HugoFur/django-docker-starter.git um-projeto-qualqu
 Vá para o diretório do projeto:
 
 ```sh
-cd um-projeto-qualquer
+cd myproject
 ```
 
 #### Construa e Inicialize os Containers
